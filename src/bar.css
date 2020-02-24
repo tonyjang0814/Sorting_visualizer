@@ -1,0 +1,8 @@
+.barElements {
+
+    height: 100px;
+    width: 0.16rem;
+    margin-left: 1px;
+    background-color: #F29E4C;
+    display: inline-block;
+}
