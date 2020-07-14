@@ -1,8 +1,7 @@
 ##      INTRODUCTION
-Hello Everyone!
-I developed this application to extend knowlege of graph algorithms from University course work.
-You can explore different types of pathfinding algorithms included in this repositery with the provided step by step installment method.
-I hope you whoever playing around my project enjoy the time!
+Welcome Everyone! I built this web application since i was interested in different types of sorting algorithms.
+In the following link of website, you can visualise 3 different sorting algorithms. Bubble Sort, Quick Sort and Merge Sort.
+The step by step guide is provided so that you can download this repo and play around with my project!
 Thank you!
 
 ##      HOW TO PLAY WITH IT?
