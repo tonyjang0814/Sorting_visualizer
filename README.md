@@ -29,22 +29,23 @@ You will require following environment settings.
 
 ##      WHAT IS IN THIS PROJECT
 ###     Features (visual demonstrations)
-1. Wall
+1. Bar adjustments
 
-Walls can be created by dragging mouse. While pathfinding algorithm searches for paths, such walls are
-ignored as it is considered as "obstacle".
-Both the start and end Nodes(highlighted as blue and red color) can be moved for your choice as well.
+The visualisation of sorting algorithms are represented by arrangement of multiple bars.
+Each bar has same thickness but different lengths. Number of bars can be adjusted by your choice.
+![ADJUSTMENTS DEMO](src/img/Adjustments.gif)
 
+2. Sorting Algorithms
 
-![WALL DEMO](src/img/wall.gif)
-
-2. Pathfinding Algorithms
-
-Dijstra Algorithm
+Bubble Sort
 
 
-![DIJKSTRA DEMO](src/img/Dijsktra.gif)
+![BUBBLE-SORT DEMO](src/img/Bubble-sort.gif)
 
-Greedy BFS(Best First Search) Algorithm
+Merge Sort
 
-![GREEDY BFS DEMO](src/img/Greedy-BFS.gif)
+![MERGE-SORT DEMO](src/img/Merge-sort.gif)
+
+Quick Sort
+
+![QUICK-SORT DEMO](src/img/Quick-sort.gif)
